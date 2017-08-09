@@ -1,7 +1,7 @@
 {
     "name": "devpoint/algolia-search-client-php",
     "description": "SearchClient implementation for Algolia.",
-    "keywords": ["searchclient", "search", "elasticsearch", "php"],
+    "keywords": ["searchclient", "search", "algolia", "php"],
     "license": "MIT",
     "authors": [
         {
